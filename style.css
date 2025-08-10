@@ -19,7 +19,7 @@ body{
   align-items: center;
   padding: 15px 30px;
 }
-button{
+.btn3{
   padding: 10px 15px;
   background-color: green;
   color: white;
@@ -27,7 +27,7 @@ button{
   border-radius: 7px;
   font-size: 16px;
   position: relative;
-  left: 60%;
+  right: -130px;
 }
 .logo img{
   position: absolute;
@@ -37,5 +37,21 @@ button{
   width: 100px;
   padding: 5px;
 }
-
-Css
+.container p{
+  font-size: 32px;
+  color: white;
+  font-weight: 800;
+  font-family: "Times New Roman";
+}
+.container{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.btn2{
+  padding: 10px 40px;
+  margin-top: 20px;
+  border-radius: 30px;
+  border: none;
+  background-color: #FF891D;
+  color: white;
+}
